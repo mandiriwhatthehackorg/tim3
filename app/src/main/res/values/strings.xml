@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MandiriWTH2019</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_dashboard_screen">DashboardScreen</string>
+    <string name="title_activity_nearest_atmscreen">Map</string>
+</resources>
